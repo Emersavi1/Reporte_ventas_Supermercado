@@ -2,8 +2,7 @@
 El siguiente código proporcionado aborda un problema de análisis de datos para una cadena de supermercados online que opera en Brasil donde:
 
 a. El código utiliza la biblioteca Pandas para manipular y analizar datos.
-
-b. Se realiza una limpieza de datos para garantizar la calidad y consistencia de la información.
+                                                                                                                                          b. Se realiza una limpieza de datos para garantizar la calidad y consistencia de la información.
 
 c. Se utilizan gráficos para visualizar los resultados, facilitando la interpretación de los insights.
 
